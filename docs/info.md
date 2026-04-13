@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A full adder is a combinational circuit that adds three inputs and produces two outputs
 
 ## How to test
 
-Explain how to use your project
+Use the first three switches leading to the inputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
