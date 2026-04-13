@@ -17,3 +17,4 @@ Use the first three switches leading to the inputs
 
 ## External hardware
 
+none
